@@ -1,0 +1,46 @@
+pass_id;survived;pclass;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;menores
+<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>;<class 'numpy.str_'>
+1;0;3;Braund, Mr. Owen Harris;male;22;1;0;A/5 21171;7.25;;S;0
+2;1;1;Cumings, Mrs. John Bradley (Florence Briggs Thayer;female;38;1;0;PC 17599;712.833;C85;C;0
+3;1;3;Heikkinen, Miss. Laina;female;26;0;0;STON/O2. 3101282;7.925;;S;0
+4;1;1;Futrelle, Mrs. Jacques Heath (Lily May Peel);female;35;1;0;113803;53.1;C123;S;0
+5;0;3;Allen, Mr. William Henry;male;35;0;0;373450;8.05;;S;0
+6;0;3;Moran, Mr. James;male;0;0;0;330877;84.583;;Q;1
+7;0;1;McCarthy, Mr. Timothy J;male;54;0;0;17463;518.625;E46;S;0
+8;0;3;Palsson, Master. Gosta Leonard;male;2;3;1;349909;21.075;;S;1
+9;1;3;Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg);female;27;0;2;347742;111.333;;S;0
+10;1;2;Nasser, Mrs. Nicholas (Adele Achem);female;14;1;0;237736;300.708;;C;1
+148;0;3;"Ford, Miss. Robina Maggie ""Ruby""";female;9;2;2;W./C. 6608;34.375;;S;1
+882;0;3;Markun, Mr. Johann;male;33;0;0;349257;78.958;;S;0
+883;0;3;Dahlberg, Miss. Gerda Ulrika;female;22;0;0;7552;105.167;;S;0
+884;0;2;Banfield, Mr. Frederick James;male;28;0;0;C.A./SOTON 34068;10.5;;S;0
+885;0;3;Sutehall, Mr. Henry Jr;male;25;0;0;SOTON/OQ 392076;7.05;;S;0
+886;0;3;Rice, Mrs. William (Margaret Norton);female;39;0;5;382652;29.125;;Q;0
+887;0;2;Montvila, Rev. Juozas;male;27;0;0;211536;13.0;;S;0
+888;1;1;Graham, Miss. Margaret Edith;female;19;0;0;112053;30.0;B42;S;0
+889;0;3;"Johnston, Miss. Catherine Helen ""Carrie""";female;0;1;2;W./C. 6607;23.45;;S;1
+890;1;1;Behr, Mr. Karl Howell;male;26;0;0;111369;30.0;C148;C;0
+891;0;3;Dooley, Mr. Patrick;male;32;0;0;370376;7.75;;Q;0
+;;;;;;;;;;;;
+Las dimensiones de la tabla son:;2;;;;;;;;;;;
+La tabla contiene:;11583;;;;;;;;;;;
+;;;;;;;;;;;;
+Porcentaje de supervivientes:;38,38%;;;;;;;;;;;
+Porcentaje de muertos:;61,62%;;;;;;;;;;;
+;;;;;;;;;;;;
+Porcentaje de supervivientes en clase 1:;62,96%;;;;;;;;;;;
+Porcentaje de supervivientes en clase 2:;47,28%;;;;;;;;;;;
+Porcentaje de supervivientes en clase 3:;24,24%;;;;;;;;;;;
+;;;;;;;;;;;;
+La edad media de las mujeres en la clase 1 es:;31,3;;;;;;;;;;;
+La edad media de las mujeres en la clase 2 es:;27,97;;;;;;;;;;;
+La edad media de las mujeres en la clase 3 es:;15,42;;;;;;;;;;;
+;;;;;;;;;;;;
+Supervivientes menores clase 1:;18,38%;;;;;;;;;;;
+Supervivientes menores clase 2:;28,74%;;;;;;;;;;;
+Supervivientes menores clase 3:;52,94%;;;;;;;;;;;
+;;;;;;;;;;;;
+Supervivientes mayores clase 1:;81,62%;;;;;;;;;;;
+Supervivientes mayores clase 2:;71,26%;;;;;;;;;;;
+Supervivientes mayores clase 3:;47,06%;;;;;;;;;;;
+;;;;;;;;;;;;
