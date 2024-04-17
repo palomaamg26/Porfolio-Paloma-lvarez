@@ -1,0 +1,119 @@
+
+EJERCICIO 3, APARTADO 5
+
+Comunidad autonoma;Grupo;Media
+Andalucia;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;99,43
+Andalucia;Ocio y cultura;99,15
+Aragon;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;98,66
+Aragon;Ocio y cultura;98,51
+Canarias;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;98,26
+Canarias;Ocio y cultura;98,15
+Cantabria;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;99,62
+Cantabria;Ocio y cultura;97,47
+Cantabria;Vivienda, agua, electricidad, gas y otros combustibles;99,95
+Castilla - La Mancha;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;99,8
+Castilla - La Mancha;Ocio y cultura;98,0
+Castilla y Leon;Ocio y cultura;99,42
+Ceuta;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;96,67
+Ceuta;Ocio y cultura;97,93
+Comunidad Foral de Navarra;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;99,82
+Comunidad Foral de Navarra;Ocio y cultura;99,43
+Comunitat Valenciana;Vivienda, agua, electricidad, gas y otros combustibles;99,62
+Extremadura;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;99,98
+Extremadura;Ocio y cultura;99,1
+Extremadura;Vivienda, agua, electricidad, gas y otros combustibles;99,31
+Galicia;Ocio y cultura;98,55
+Illes Balears;Ocio y cultura;99,42
+La Rioja;Ocio y cultura;99,04
+La Rioja;Vivienda, agua, electricidad, gas y otros combustibles;99,79
+Melilla;Ocio y cultura;98,26
+Melilla;Transporte;99,79
+Principado de Asturias;Ensenyanza;99,6
+Principado de Asturias;Ocio y cultura;97,87
+Region de Murcia;Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar;99,27
+Region de Murcia;Ocio y cultura;97,85
+Region de Murcia;Vivienda, agua, electricidad, gas y otros combustibles;99,08
+
+Alimentos y bebidas no alcoholicas
+;Enero;1,06
+;Febrero;1,0
+;Marzo;1,06
+;Abril;0,83
+;Mayo;0,78
+
+Bebidas alcoholicas y tabaco
+;Enero;2,84
+;Febrero;3,1
+;Marzo;3,37
+;Abril;3,29
+;Mayo;3,29
+
+Comunicaciones
+;Enero;1,04
+;Febrero;1,08
+;Marzo;1,15
+;Abril;1,15
+;Mayo;1,18
+
+Ensenyanza
+;Enero;1,74
+;Febrero;1,74
+;Marzo;1,74
+;Abril;1,74
+;Mayo;1,75
+
+Muebles, articulos del hogar y articulos para el mantenimiento corriente del hogar
+;Enero;1,45
+;Febrero;1,43
+;Marzo;1,51
+;Abril;1,44
+;Mayo;1,53
+
+Ocio y cultura
+;Enero;0,88
+;Febrero;0,95
+;Marzo;1,02
+;Abril;1,09
+;Mayo;1,05
+
+Otros bienes y servicios 
+;Enero;1,28
+;Febrero;1,29
+;Marzo;1,29
+;Abril;1,39
+;Mayo;1,33
+
+Restaurantes y hoteles
+;Enero;1,22
+;Febrero;1,34
+;Marzo;1,32
+;Abril;1,39
+;Mayo;1,43
+
+Sanidad
+;Enero;1,13
+;Febrero;1,18
+;Marzo;1,08
+;Abril;1,08
+;Mayo;1,08
+
+Transporte
+;Enero;2,05
+;Febrero;1,94
+;Marzo;2,08
+;Abril;2,11
+;Mayo;2,24
+
+Vestido y calzado
+;Enero;1,62
+;Febrero;1,32
+;Marzo;1,55
+;Abril;1,85
+;Mayo;1,75
+
+Vivienda, agua, electricidad, gas y otros combustibles
+;Enero;1,17
+;Febrero;0,96
+;Marzo;0,89
+;Abril;1,24
+;Mayo;1,35
