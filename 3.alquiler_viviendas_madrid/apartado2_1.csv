@@ -1,0 +1,12 @@
+
+EJERCICIO 2, APARTADO 1
+
+Dimensiones de la tabla: ;2
+El número de elementos en la tabla es: ;88
+Los nombres de las columnas son: ;DISTRITOS, TOTAL, REGLAMENTO ADJUDICACION, RESTO PROGRAMAS
+
+Nombre de la columna;Tipo de dato
+DISTRITOS;<class 'numpy.str_'>
+TOTAL;<class 'numpy.str_'>
+REGLAMENTO ADJUDICACION;<class 'numpy.str_'>
+RESTO PROGRAMAS;<class 'numpy.str_'>
